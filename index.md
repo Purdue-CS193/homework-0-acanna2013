@@ -14,7 +14,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### testing markdown
 
-```markdown
+```markdown```
 Syntax highlighted code block
 
 #testing header 1
@@ -34,7 +34,6 @@ _IMPORTANT_
 `IMPORTANT CODE`
 
 [Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
