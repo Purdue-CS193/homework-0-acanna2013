@@ -1,4 +1,10 @@
-## Homework 0 - CS 193 Tools
+# Anna Chen's First CS193 Homework
+
+##What I like about CS 193:
+- teaches how to use Github
+- teaches which tools are most commonly used in industry
+- the instructors are cool and helpful as they're also CS/DS majors
+- no midterms and final exams =D
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
